@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -57,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
+## Binary Search
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
