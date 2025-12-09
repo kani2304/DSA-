@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/kani2304/DSA-/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kani2304/DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3583-count-special-triplets](https://github.com/kani2304/DSA-/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kani2304/DSA-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3583-count-special-triplets](https://github.com/kani2304/DSA-/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kani2304/DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/kani2304/DSA-/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
 | ------- |
