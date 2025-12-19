@@ -81,18 +81,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/kani2304/DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kani2304/DSA-/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Geometry
 |  |
