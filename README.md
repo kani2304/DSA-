@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kani2304/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kani2304/DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kani2304/DSA-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kani2304/DSA-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kani2304/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kani2304/DSA-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kani2304/DSA-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/kani2304/DSA-/tree/master/3379-transformed-array) |
