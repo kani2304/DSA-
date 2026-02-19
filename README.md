@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/kani2304/DSA-/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kani2304/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kani2304/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/kani2304/DSA-/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
