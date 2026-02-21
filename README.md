@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kani2304/DSA-/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/kani2304/DSA-/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kani2304/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kani2304/DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kani2304/DSA-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/kani2304/DSA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kani2304/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kani2304/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
