@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kani2304/DSA-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kani2304/DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/kani2304/DSA-/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/kani2304/DSA-/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kani2304/DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kani2304/DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/kani2304/DSA-/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/kani2304/DSA-/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kani2304/DSA-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3713-longest-balanced-substring-i](https://github.com/kani2304/DSA-/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
