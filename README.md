@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-trionic-array-ii](https://github.com/kani2304/DSA-/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kani2304/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kani2304/DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kani2304/DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/kani2304/DSA-/tree/master/2625-increment-submatrices-by-one) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kani2304/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/kani2304/DSA-/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kani2304/DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
