@@ -1,18 +1,14 @@
 class Solution {
     public int minElement(int[] nums) {
-    int min=Integer.MAX_VALUE;
-        for(int val:nums){
-            int cur=digitSum(val);
-            if(cur<min)min=cur;
+        int minElement = Integer.MAX_VALUE;
+        for (int num : nums) {
+            int sumDigit = 0;
+            while(num > 0){
+                sumDigit += num %10;
+                num /= 10;
+            }
+            minElement = Math.min(minElement, sumDigit);
         }
-        return min;
-    }
-    public static int digitSum(int val){
-        int ans=0;
-        while(val>0){
-            ans+=val%10;
-            val/=10;
-        }
-        return ans;
+        return minElement;
     }
 }
