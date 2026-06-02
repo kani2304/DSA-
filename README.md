@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-trionic-array-ii](https://github.com/kani2304/DSA-/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kani2304/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/kani2304/DSA-/tree/master/3719-longest-balanced-subarray-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kani2304/DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kani2304/DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kani2304/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3161-block-placement-queries](https://github.com/kani2304/DSA-/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Queue
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/kani2304/DSA-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kani2304/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kani2304/DSA-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Geometry
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/kani2304/DSA-/tree/master/0696-count-binary-substrings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
