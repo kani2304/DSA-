@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kani2304/DSA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/kani2304/DSA-/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kani2304/DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3583-count-special-triplets](https://github.com/kani2304/DSA-/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kani2304/DSA-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3640-trionic-array-ii](https://github.com/kani2304/DSA-/tree/master/3640-trionic-array-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kani2304/DSA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kani2304/DSA-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/kani2304/DSA-/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kani2304/DSA-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kani2304/DSA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kani2304/DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kani2304/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kani2304/DSA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kani2304/DSA-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kani2304/DSA-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kani2304/DSA-/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Backtracking
 |  |
