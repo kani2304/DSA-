@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kani2304/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kani2304/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kani2304/DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kani2304/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kani2304/DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/kani2304/DSA-/tree/master/0696-count-binary-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kani2304/DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kani2304/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
