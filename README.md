@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/kani2304/DSA-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kani2304/DSA-/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kani2304/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kani2304/DSA-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kani2304/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/kani2304/DSA-/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kani2304/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kani2304/DSA-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kani2304/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kani2304/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kani2304/DSA-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kani2304/DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -396,4 +399,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
