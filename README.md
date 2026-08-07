@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/kani2304/DSA-/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kani2304/DSA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kani2304/DSA-/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2304/DSA-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kani2304/DSA-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kani2304/DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3612-process-string-with-special-operations-i](https://github.com/kani2304/DSA-/tree/master/3612-process-string-with-special-operations-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kani2304/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2304/DSA-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kani2304/DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kani2304/DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kani2304/DSA-/tree/master/3689-maximum-total-subarray-value-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kani2304/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kani2304/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2304/DSA-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kani2304/DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kani2304/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kani2304/DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2304/DSA-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kani2304/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/kani2304/DSA-/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2304/DSA-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
