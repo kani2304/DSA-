@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/kani2304/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kani2304/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kani2304/DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/kani2304/DSA-/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kani2304/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/kani2304/DSA-/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kani2304/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/kani2304/DSA-/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kani2304/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kani2304/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kani2304/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kani2304/DSA-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
@@ -415,14 +419,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
