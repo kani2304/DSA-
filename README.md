@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kani2304/DSA-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kani2304/DSA-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kani2304/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/kani2304/DSA-/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kani2304/DSA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kani2304/DSA-/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kani2304/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kani2304/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kani2304/DSA-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kani2304/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kani2304/DSA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kani2304/DSA-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kani2304/DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kani2304/DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kani2304/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kani2304/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kani2304/DSA-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kani2304/DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
