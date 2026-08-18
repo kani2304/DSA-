@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kani2304/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kani2304/DSA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/kani2304/DSA-/tree/master/3379-transformed-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kani2304/DSA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kani2304/DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kani2304/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kani2304/DSA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kani2304/DSA-/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kani2304/DSA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kani2304/DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/kani2304/DSA-/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kani2304/DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
