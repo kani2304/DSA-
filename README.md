@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/kani2304/DSA-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kani2304/DSA-/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kani2304/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kani2304/DSA-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1563-stone-game-v](https://github.com/kani2304/DSA-/tree/master/1563-stone-game-v) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/kani2304/DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/kani2304/DSA-/tree/master/2126-destroying-asteroids) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/kani2304/DSA-/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kani2304/DSA-/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kani2304/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kani2304/DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kani2304/DSA-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kani2304/DSA-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
