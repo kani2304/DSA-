@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kani2304/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kani2304/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/kani2304/DSA-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kani2304/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kani2304/DSA-/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kani2304/DSA-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kani2304/DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kani2304/DSA-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
