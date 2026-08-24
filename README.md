@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kani2304/DSA-/tree/master/1563-stone-game-v) |
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/kani2304/DSA-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kani2304/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kani2304/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kani2304/DSA-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/kani2304/DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kani2304/DSA-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kani2304/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kani2304/DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kani2304/DSA-/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kani2304/DSA-/tree/master/2288-count-operations-to-obtain-zero) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kani2304/DSA-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -475,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kani2304/DSA-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
