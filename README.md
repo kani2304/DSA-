@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kani2304/DSA-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kani2304/DSA-/tree/master/0066-plus-one) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kani2304/DSA-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kani2304/DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/kani2304/DSA-/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kani2304/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/kani2304/DSA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kani2304/DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kani2304/DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/kani2304/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kani2304/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kani2304/DSA-/tree/master/1510-stone-game-iv) |
@@ -518,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kani2304/DSA-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
