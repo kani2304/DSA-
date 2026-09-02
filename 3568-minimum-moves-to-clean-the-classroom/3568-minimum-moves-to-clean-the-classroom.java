@@ -2,143 +2,156 @@ import java.util.*;
 
 class Solution {
 
-    static class State {
-        int r, c, energy, mask, dist;
-
-        State(int r, int c, int energy, int mask, int dist) {
-            this.r = r;
-            this.c = c;
-            this.energy = energy;
-            this.mask = mask;
-            this.dist = dist;
-        }
-    }
-
     public int minMoves(String[] classroom, int energy) {
 
-        int m = classroom.length;
-        int n = classroom[0].length();
+        int n = classroom.length;
+        int m = classroom[0].length();
 
-        int sr = 0, sc = 0;
+        int sr = 0;
+        int sc = 0;
+        int cnt = 0;
 
-        // Assign one bit to every litter cell
-        int[][] litterId = new int[m][n];
+        // id[i][j] stores the unique ID of litter at (i, j)
+        int[][] id = new int[n][m];
 
-        for (int[] row : litterId) {
+        for (int[] row : id) {
             Arrays.fill(row, -1);
         }
 
-        int litterCount = 0;
+        // Find the starting position and number the litter cells
+        for (int i = 0; i < n; i++) {
 
-        for (int r = 0; r < m; r++) {
-            for (int c = 0; c < n; c++) {
+            for (int j = 0; j < m; j++) {
 
-                char ch = classroom[r].charAt(c);
+                char ch = classroom[i].charAt(j);
 
+                // Store starting position
                 if (ch == 'S') {
-                    sr = r;
-                    sc = c;
+                    sr = i;
+                    sc = j;
                 }
 
+                // Give every litter cell a unique ID
                 if (ch == 'L') {
-                    litterId[r][c] = litterCount++;
+                    id[i][j] = cnt++;
                 }
             }
         }
-
-        // Mask with all litter collected
-        int fullMask = (1 << litterCount) - 1;
 
         /*
          * best[r][c][mask] =
-         * maximum energy with which we reached
-         * (r, c) after collecting 'mask'.
+         * maximum remaining energy with which
+         * we have reached (r, c) after collecting
+         * the litter represented by mask.
          */
-        int[][][] best = new int[m][n][1 << litterCount];
+        int[][][] best = new int[n][m][1 << cnt];
 
-        for (int r = 0; r < m; r++) {
-            for (int c = 0; c < n; c++) {
-                Arrays.fill(best[r][c], -1);
+        // Initially, no state has been visited
+        for (int[][] a : best) {
+            for (int[] b : a) {
+                Arrays.fill(b, -1);
             }
         }
 
-        Queue<State> queue = new ArrayDeque<>();
+        /*
+         * Queue state:
+         *
+         * [row, column, energy, mask, moves]
+         */
+        Queue<int[]> q = new ArrayDeque<>();
 
+        // Start from S
+        q.offer(new int[]{sr, sc, energy, 0, 0});
+
+        // At the starting position, we have full energy
         best[sr][sc][0] = energy;
 
-        queue.offer(
-            new State(sr, sc, energy, 0, 0)
-        );
-
+        // Four possible directions
         int[] dr = {-1, 1, 0, 0};
         int[] dc = {0, 0, -1, 1};
 
-        while (!queue.isEmpty()) {
+        // Mask when all litter has been collected
+        int all = (1 << cnt) - 1;
 
-            State cur = queue.poll();
+        // BFS
+        while (!q.isEmpty()) {
+
+            int[] cur = q.poll();
+
+            int r = cur[0];
+            int c = cur[1];
+            int e = cur[2];
+            int mask = cur[3];
+            int moves = cur[4];
 
             // All litter collected
-            if (cur.mask == fullMask) {
-                return cur.dist;
+            if (mask == all) {
+                return moves;
             }
 
-            for (int d = 0; d < 4; d++) {
+            // No energy left, so we cannot move
+            if (e == 0) {
+                continue;
+            }
 
-                int nr = cur.r + dr[d];
-                int nc = cur.c + dc[d];
+            // Try all four directions
+            for (int k = 0; k < 4; k++) {
 
-                // Outside the grid
-                if (nr < 0 || nr >= m || nc < 0 || nc >= n) {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
+
+                // Check boundaries
+                if (nr < 0 || nr >= n || nc < 0 || nc >= m) {
                     continue;
                 }
 
-                // Obstacle
-                if (classroom[nr].charAt(nc) == 'X') {
+                char ch = classroom[nr].charAt(nc);
+
+                // Cannot move through blocked cells
+                if (ch == 'X') {
                     continue;
                 }
 
-                // No energy = cannot move
-                if (cur.energy == 0) {
-                    continue;
-                }
+                // Moving costs one unit of energy
+                int ne = e - 1;
 
-                int newEnergy = cur.energy - 1;
-                int newMask = cur.mask;
-
-                char cell = classroom[nr].charAt(nc);
+                // Initially keep the same litter mask
+                int nm = mask;
 
                 // Collect litter
-                if (cell == 'L') {
-                    int id = litterId[nr][nc];
-                    newMask |= (1 << id);
+                if (ch == 'L') {
+                    nm |= 1 << id[nr][nc];
                 }
 
-                // Reset energy
-                if (cell == 'R') {
-                    newEnergy = energy;
+                // Recharge energy
+                if (ch == 'R') {
+                    ne = energy;
                 }
 
                 /*
-                 * If this state was already reached with
-                 * equal or more energy, this state is useless.
+                 * If we have already reached the same
+                 * position and mask with more energy,
+                 * this state is not useful.
                  */
-                if (newEnergy > best[nr][nc][newMask]) {
-
-                    best[nr][nc][newMask] = newEnergy;
-
-                    queue.offer(
-                        new State(
-                            nr,
-                            nc,
-                            newEnergy,
-                            newMask,
-                            cur.dist + 1
-                        )
-                    );
+                if (best[nr][nc][nm] >= ne) {
+                    continue;
                 }
+
+                // Save the best remaining energy
+                best[nr][nc][nm] = ne;
+
+                // Add new state to BFS
+                q.offer(new int[]{
+                    nr,
+                    nc,
+                    ne,
+                    nm,
+                    moves + 1
+                });
             }
         }
 
+        // Impossible to collect all litter
         return -1;
     }
 }
