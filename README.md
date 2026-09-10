@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kani2304/DSA-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kani2304/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kani2304/DSA-/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kani2304/DSA-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kani2304/DSA-/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kani2304/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kani2304/DSA-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kani2304/DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Backtracking
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kani2304/DSA-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kani2304/DSA-/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kani2304/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
