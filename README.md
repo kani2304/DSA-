@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/kani2304/DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kani2304/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kani2304/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kani2304/DSA-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kani2304/DSA-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kani2304/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kani2304/DSA-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kani2304/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/kani2304/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kani2304/DSA-/tree/master/2029-stone-game-ix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/kani2304/DSA-/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/kani2304/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kani2304/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kani2304/DSA-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/kani2304/DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kani2304/DSA-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kani2304/DSA-/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/kani2304/DSA-/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/kani2304/DSA-/tree/master/1340-jump-game-v) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kani2304/DSA-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2092-find-all-people-with-secret](https://github.com/kani2304/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/kani2304/DSA-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kani2304/DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
