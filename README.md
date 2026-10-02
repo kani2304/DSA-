@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/kani2304/DSA-/tree/master/0696-count-binary-substrings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/kani2304/DSA-/tree/master/0799-champagne-tower) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/kani2304/DSA-/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/kani2304/DSA-/tree/master/1096-brace-expansion-ii) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kani2304/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kani2304/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kani2304/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
