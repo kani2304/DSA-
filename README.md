@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kani2304/DSA-/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/kani2304/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/kani2304/DSA-/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/kani2304/DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/kani2304/DSA-/tree/master/0940-distinct-subsequences-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kani2304/DSA-/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kani2304/DSA-/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/kani2304/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/kani2304/DSA-/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/kani2304/DSA-/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/kani2304/DSA-/tree/master/0940-distinct-subsequences-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/kani2304/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kani2304/DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kani2304/DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/kani2304/DSA-/tree/master/1382-balance-a-binary-search-tree) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/kani2304/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/kani2304/DSA-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kani2304/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kani2304/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kani2304/DSA-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kani2304/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kani2304/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kani2304/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kani2304/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
